@@ -16,4 +16,4 @@ Module of higher-level programming, carried out during Full Stack Software Engin
 
 * [0x00 Python - Hello, World](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x00-python-hello_world)
 * [0x01 Python - if/else, loops, functions](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x01-python-if_else_loops_functions)
-* [0x02. Python - import & modules](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x02-python-import_modules)
+* [0x02 Python - import & modules](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x02-python-import_modules)
