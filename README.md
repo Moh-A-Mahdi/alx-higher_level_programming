@@ -18,3 +18,4 @@ Module of higher-level programming, carried out during Full Stack Software Engin
 * [0x01 Python - if/else, loops, functions](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x01-python-if_else_loops_functions)
 * [0x02 Python - import & modules](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x02-python-import_modules)
 * [0x03 Python - Data Structures: Lists, Tuples](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x03-python-data_structures)
+* [0x04 Python - More Data Structures: Set, Dictionary](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x04-python-more_data_structures)
