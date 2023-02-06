@@ -24,3 +24,4 @@ Module of higher-level programming, carried out during Full Stack Software Engin
 * [0x07 Python - Test-driven development](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x07-python-test_driven_development)
 * [0x08 Python - More Classes and Objects](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x08-python-more_classes)
 * [0x09 Python - Everything is object](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x09-python-everything_is_object)
+* [0x0A. Python - Inheritance](https://github.com/Moh-A-Mahdi/alx-higher_level_programming/tree/main/0x0A-python-inheritance)
