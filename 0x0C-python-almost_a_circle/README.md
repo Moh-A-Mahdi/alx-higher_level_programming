@@ -1,1 +1,7 @@
-# 0x0C. Python
+# Python - Almost a circle
+
+## Files
+
+All of the following files are scripts and programs written in Python.
+
+![alt](https://geps.dev/progress/00)
