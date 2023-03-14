@@ -1,4 +1,4 @@
-# 0x0D-SQL_introduction
+# SQL_introduction
 
 ## Files
 
